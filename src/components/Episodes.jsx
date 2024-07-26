@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { fetchEpisodes, fetchCharacters } from "../api";
 
-export const Rick = () => {
+export const Episodes = () => {
   const [episodes, setEpisodes] = useState([]);
   const [charactersByEpisodes, setCharactersByEpisodes] = useState({});
   const [isLoadingByEpisodes, setIsLoadingByEpisodes] = useState({});

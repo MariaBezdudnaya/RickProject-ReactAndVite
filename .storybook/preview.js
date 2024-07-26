@@ -1,4 +1,4 @@
-import "../src/components/Rick.css";
+import "../src/components/Episodes.css";
 import "../src/components/Locations.css";
 
 /** @type { import('@storybook/react').Preview } */
