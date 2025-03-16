@@ -1,5 +1,6 @@
 .ShowCard_conatainer {
-    margin: 0 100px 0 100px;
+    margin: 20px auto;
+    width: 90vw;
     display: flex;
     flex-direction: column;
     gap: 5px;
